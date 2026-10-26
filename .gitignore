@@ -1,0 +1,5 @@
+/dist/
+/tests/output/
+__pycache__/
+*.user
+*.suo

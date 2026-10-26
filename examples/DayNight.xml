@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<window><id>87950</id><defaultcontrol>1</defaultcontrol><allowoverlay>no</allowoverlay><controls>
+<control><type>label</type><id>1</id><posX>65</posX><posY>55</posY><width>1200</width><height>60</height><font>font16</font><label>#DayNight.Label.Title</label></control>
+</controls></window>
